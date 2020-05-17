@@ -1,2 +1,2 @@
-class Manager::OrdersController < ApplicationController
+class Managers::OrdersController < ApplicationController
 end

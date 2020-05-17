@@ -1,2 +1,2 @@
-class Manager::GenresController < ApplicationController
+class Managers::GenresController < ApplicationController
 end

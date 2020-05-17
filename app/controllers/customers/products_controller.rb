@@ -1,4 +1,4 @@
-class Ec::ProductsController < ApplicationController
+class Customers::ProductsController < ApplicationController
   def index
     
   end
