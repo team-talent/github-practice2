@@ -1,4 +1,4 @@
-class Ec::HomesController < ApplicationController
+class Customers::HomesController < ApplicationController
 
   def home
   end

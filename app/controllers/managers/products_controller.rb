@@ -1,2 +1,2 @@
-class Manager::ProductsController < ApplicationController
+class Managers::ProductsController < ApplicationController
 end

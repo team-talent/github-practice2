@@ -1,2 +1,2 @@
-class Manager::DetailsController < ApplicationController
+class Managers::DetailsController < ApplicationController
 end
